@@ -1,0 +1,9 @@
+{
+	"name": "df-Azure-Project1-Spotify",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6bd6c07f-fd1d-4859-a466-0010a427fe86",
+		"tenantId": "a836508a-75b4-4f75-80ab-e439e7e58dbc"
+	}
+}
