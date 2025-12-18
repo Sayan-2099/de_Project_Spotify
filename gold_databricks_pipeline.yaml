@@ -1,0 +1,14 @@
+id: a52fe44f-d65e-4bef-991e-037911e0adf8
+pipeline_type: WORKSPACE
+name: gold_pipeline
+libraries:
+  - glob:
+      include: /Workspace/Users/ashismitra1965_gmail.com#ext#@ashismitra1965gmail.onmicrosoft.com/spotify_dab/src/gold/Delta_live_table/transformations/**
+schema: gold
+continuous: false
+development: false
+photon: true
+channel: CURRENT
+catalog: spotify_cata
+serverless: true
+root_path: /Workspace/Users/ashismitra1965_gmail.com#ext#@ashismitra1965gmail.onmicrosoft.com/spotify_dab/src/gold/Delta_live_table
